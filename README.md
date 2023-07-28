@@ -1,8 +1,10 @@
 # Virtual-Internship-Experience: Big Data Analytic Kimia Farma
 
-Tool : PostgreSQL 
+**Tool** : PostgreSQL 
 
-Visualization Tool : <a href="https://lookerstudio.google.com/u/0/reporting/3cacf6f7-2769-401f-b945-4688f156024c/page/g5u3C">Google Data Studio</a>
+**Programing Languange** : SQL
+
+**Visualization Tool** : <a href="https://lookerstudio.google.com/u/0/reporting/3cacf6f7-2769-401f-b945-4688f156024c/page/g5u3C">Google Data Studio</a>
 
 ## Introduction ##
 
