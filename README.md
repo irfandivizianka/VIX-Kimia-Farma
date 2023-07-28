@@ -15,3 +15,4 @@ VIX Big Data Analytics Kimia Farma merupakan program virtual internship experien
 
 ## Result Data Visualization ##
 
+<img src="https://github.com/irfandivizianka/VIX-Kimia-Farma/blob/main/Dashboard%20Report/Dashboard%20Sales%20Report.PNG" />
